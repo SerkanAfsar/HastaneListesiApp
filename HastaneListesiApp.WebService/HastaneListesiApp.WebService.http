@@ -1,0 +1,6 @@
+@HastaneListesiApp.WebService_HostAddress = http://localhost:5089
+
+GET {{HastaneListesiApp.WebService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
